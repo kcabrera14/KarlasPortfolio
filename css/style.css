@@ -115,9 +115,7 @@ position: sticky;
 justify-content:space-evenly;
 align-items: center;
 }
-.about-container img{
-height:250px;
-}
+
 .about-text{
 width:600px;
 }
